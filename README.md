@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Primer Repositorio M2
+Este proyecto es una prueba con README incluido
